@@ -1,0 +1,17 @@
+[
+  {
+    "module": "A: archival evidence audit",
+    "status": "reported, not reproduced",
+    "v68_reference": {
+      "hits": 8,
+      "valid": 10
+    },
+    "reported_pooled": {
+      "hits": 34,
+      "valid": 40,
+      "chance": 0.2
+    },
+    "binomial_tail_under_independent_random_guessing": 1.8053811023848657e-18,
+    "warning": "No original scenario predictions supplied; this does not independently verify 34/40. No null false-positive rate inferred from random-label matches."
+  }
+]

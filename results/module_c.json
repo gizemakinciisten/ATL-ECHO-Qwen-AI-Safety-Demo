@@ -1,0 +1,10 @@
+[
+  {
+    "module": "C: additive masking illustration",
+    "status": "synthetic numerical check",
+    "agents": 5,
+    "dimensions": 8,
+    "maximum_aggregate_error": 6.661338147750939e-16,
+    "warning": "Deterministic illustrative masks; NOT cryptographically secure, private, or production-ready. Individual values must not be considered protected."
+  }
+]

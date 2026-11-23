@@ -1,0 +1,13 @@
+[
+  {
+    "module": "B: Qwen open linear probe",
+    "status": "fresh inference, simplified baseline",
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "scenarios": 5,
+    "source_attribution_hits": 5,
+    "source_attribution_total": 5,
+    "row_auc": 1.0,
+    "method": "last-token layer-20 activation; scenario-held-out standardized logistic regression",
+    "warning": "Prompt-condition differences are known confounders. Not an ATL ECHO score, not v7.7 replication, not early behavioral prediction."
+  }
+]
